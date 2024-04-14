@@ -1,0 +1,16 @@
+.header{
+    background-color: aqua;
+    color:red;
+
+}
+@media(max-width:500px){
+    .header{
+        background-color: blueviolet;
+        color: black;
+        padding: 30px;
+        margin: 20px;
+        border: 5px solid yellow;
+
+
+    }
+}
